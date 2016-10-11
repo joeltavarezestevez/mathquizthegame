@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Math Quiz: El Juego</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_menu">Menú</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2915919069891811/3288169997</string>
+    <string name="title_activity_about">Sobre Math Quiz</string>
+    <string name="title_activity_how_to_play">Cómo Jugar</string>
+
+    <!-- About Activity -->
+    <string name="textViewAbout">Acerca de Math Quiz</string>
+    <string name="textViewVersion">Math Quiz v1.0.4</string>
+    <string name="textViewCompany">DESPRO Solutions S.R.L.</string>
+    <string name="textViewDeveloper">Desarrollado Por: \n Joel Tavárez</string>
+    <string name="textViewEmail">joeltavarezestevez@gmail.com</string>
+    <string name="textViewHowToPlay">Cómo Jugar?</string>
+    <string name="textViewEvaluate">Valorar Math Quiz!</string>
+    <string name="textViewMadeIn">Hecho en</string>
+
+    <!-- How To Play Activity -->
+    <string name="textViewParrafo1">Tienes que resolver cuatro operaciones matemáticas en menos de 15 segundos.</string>
+    <string name="textViewParrafo2">Ten cuidado! si no resuelves todas las operaciones el tiempo sigue corriendo!.</string>
+    <string name="textViewParrafo3">Fácil? Prueba si eres el próximo genio de las matemáticas y comienza a jugar ahora!</string>
+    <string name="textViewPlayNow">Jugar ahora!</string>
+
+    <!-- Main Activity -->
+    <string name="textViewScore">Puntaje:</string>
+    <string name="textViewNivel">Nivel</string>
+    <string name="textViewTiempoRestante">Tiempo</string>
+    <string name="buttonIniciar">Iniciar</string>
+    <string name="mTimeup">Time\'s Up!</string>
+    <string name="mNextlevel">Siguiente</string>
+    <string name="mTextmessage">Mi puntaje en Math Quiz App! Descarga Math Quiz: El Juego, desde el Play Store
+                                de Google: bit.ly/mathquizthegame</string>
+    <string name="mFailedCreateDirectory">error al crear el directorio</string>
+    <string name="mScreenshotsaved">Captura de pantalla almacenada en su dispositivo</string>
+    <string name="mSharescore">Comparte tu puntaje</string>
+
+    <!-- Menu Activity -->
+    <string name="textViewTitle">Math Quiz:\nEl Juego</string>
+    <string name="buttonPlay">Jugar</string>
+    <string name="buttonInstructions">Instrucciones</string>
+    <string name="buttonAbout">Acerca de</string>
+
+    <!-- popup Activity -->
+    <string name="textViewGameOver">FIN DEL JUEGO</string>
+    <string name="textViewTheScore">Puntaje</string>
+    <string name="textViewTheHighScore">Puntaje más alto</string>
+    <string name="buttonTryAgain">Reintentar</string>
+    <string name="buttonShareScore">Compartir</string>
+    <string name="textViewExtraTime"> Obtener 5 segundos adicionales!</string>
+
+    <!-- AppRater Class -->
+    <string name="APP_TITLE">Valora Math Quiz: El Juego</string>
+    <string name="APP_PNAME">com.desprosolutions.mathquiz</string>
+    <string name="rate_positive">Valorar</string>
+    <string name="rate_remind_later">Recordarme luego</string>
+    <string name="rate_never">No, gracias</string>
+    <string name="rate_message">Si te gusta usar Math Quiz: El Juego, ¿te importaría dedicar un minuto para evaluarlo? Gracias por tu colaboración!</string>
+
+</resources>

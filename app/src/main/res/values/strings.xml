@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Math Quiz: The Game</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2915919069891811/3288169997m</string>
+    <string name="title_activity_about">About Math Quiz</string>
+    <string name="title_activity_how_to_play">How To Play</string>
+
+    <!-- About Activity -->
+    <string name="textViewAbout">About Math Quiz</string>
+    <string name="textViewVersion">Math Quiz v1.0.4</string>
+    <string name="textViewCompany">DESPRO Solutions S.R.L.</string>
+    <string name="textViewDeveloper">Developed By: \n Joel Tavárez</string>
+    <string name="textViewEmail">joeltavarezestevez@gmail.com</string>
+    <string name="textViewHowToPlay">How To Play?</string>
+    <string name="textViewEvaluate">Rate Us!</string>
+    <string name="textViewMadeIn">Made In</string>
+
+    <!-- How To Play Activity -->
+    <string name="textViewParrafo1">You have to solve four math operations in less than 15 seconds.</string>
+    <string name="textViewParrafo2">Beware! if you don\'t solve the operations, the time continues running!.
+                            If you fail to solve operations on time, the result will turn green if solved correctly
+                            or red if not.</string>
+    <string name="textViewParrafo3">Easy? Prove you\'re the next math genius and start playing now!</string>
+    <string name="textViewPlayNow">Play Now!</string>
+
+    <!-- Main Activity -->
+    <string name="textViewScore">Score:</string>
+    <string name="textViewNivel">Level</string>
+    <string name="textViewTiempoRestante">Time Left</string>
+    <string name="buttonIniciar">Start</string>
+    <string name="mTimeup">Time\'s Up!</string>
+    <string name="mNextlevel">Next Level</string>
+    <string name="mTextmessage">My Score On Math Quiz App! GET Math Quiz: The Game On Your Phone from the Google
+                                Play Store: bit.ly/mathquizthegame</string>
+    <string name="mFailedCreateDirectory">failed to create directory</string>
+    <string name="mScreenshotsaved">Screenshot saved in your device</string>
+    <string name="mSharescore">Share Your Score</string>
+
+    <!-- Menu Activity -->
+    <string name="textViewTitle">Math Quiz:\nThe Game</string>
+    <string name="buttonPlay">Play</string>
+    <string name="buttonInstructions">Instructions</string>
+    <string name="buttonAbout">About</string>
+
+    <!-- popup Activity -->
+    <string name="textViewGameOver">GAME OVER</string>
+    <string name="textViewTheScore">Score</string>
+    <string name="textViewTheHighScore">High Score</string>
+    <string name="buttonTryAgain">Try Again</string>
+    <string name="buttonShareScore">Share Score</string>
+    <string name="textViewExtraTime">Watch a video and get 5 extra seconds!</string>
+
+    <!-- AppRater Class -->
+    <string name="APP_TITLE">Rate Math Quiz: The Game</string>
+    <string name="APP_PNAME">com.desprosolutions.mathquiz</string>
+    <string name="rate_positive">Rate</string>
+    <string name="rate_remind_later">Remind me later</string>
+    <string name="rate_never">No, thanks</string>
+    <string name="rate_message">If you enjoy using Math Quiz: The Game, please take a moment to rate it. Thanks for your support!</string>
+
+
+</resources>
